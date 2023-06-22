@@ -1,0 +1,9 @@
+T:0 Selamat datang di game "Goblins Wrath Tower Siege", gunakan mouse Anda untuk menarik dan meletakkan menara di tempat yang telah disediakan.
+Klik kanan pada sebuah menara untuk membuka panel peningkatan, lalu pilih tindakan yang ingin dilakukan.
+Anda dapat meningkatkan menara, meningkatkan proyektil menara, atau menjual menara.
+
+T1: Di area ini, Anda akan menggunakan menara pemanah. Coba tempatkan beberapa menara di lapangan agar para pemanah dapat menghentikan serangan musuh yang datang.
+
+T2: Sekarang giliran para penyihir, tambahkan beberapa menara penyihir untuk menghentikan serangan musuh. Gunakan juga beberapa menara pemanah, dan bersama-sama mereka akan menjadi tak terhentikan.
+
+T3: Anda sudah melakukan dengan sangat baik, sekarang giliran menara jarak dekat. Menara ini menciptakan unit bertipe jarak dekat yang dapat melambatkan gerakan musuh, sangat ideal jika dikombinasikan dengan pemanah dan penyihir.
