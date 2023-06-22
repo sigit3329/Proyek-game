@@ -8,6 +8,8 @@
   },
   "properties": {
     "adaptGameResolutionAtRuntime": false,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
     "packageName": "io.crimsongames.GoblinsWrathTowerSiege",
@@ -848,7 +850,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0000-Level_0.png",
+        "file": "Assets/map/1.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0000-Level_0.png",
@@ -1075,7 +1077,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0001-Level_1.png",
+        "file": "Assets/map/2.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0001-Level_1.png",
@@ -1133,7 +1135,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0003-Level_3.png",
+        "file": "Assets/map/4.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0003-Level_3.png",
@@ -1142,7 +1144,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0004-Level_4.png",
+        "file": "Assets/map/5.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0004-Level_4.png",
@@ -1151,7 +1153,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0005-Level_5.png",
+        "file": "Assets/map/6.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0005-Level_5.png",
@@ -1169,7 +1171,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Assets/map/0002-Level_2.png",
+        "file": "Assets/map/3.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Assets\\map\\0002-Level_2.png",
@@ -1709,7 +1711,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Created By \nUlises Freitas",
+          "string": "Tower Defense",
           "font": "Assets\\fonts\\PressStart2P-Regular.ttf",
           "textAlignment": "",
           "characterSize": 30,
@@ -3834,7 +3836,7 @@
           "height": 384,
           "name": "level_1",
           "tags": "",
-          "texture": "Assets\\map\\0000-Level_0.png",
+          "texture": "Assets\\map\\1.jpg",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 640,
           "variables": [],
@@ -3935,7 +3937,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Created By \nUlises Freitas\nI hope you enjoyed the game\nThanks",
+          "string": "Created By \nKelompok\nTower defense",
           "font": "Assets\\fonts\\PressStart2P-Regular.ttf",
           "textAlignment": "",
           "characterSize": 12,
@@ -5576,17 +5578,16 @@
       "v": 209,
       "uiSettings": {
         "grid": true,
-        "gridB": 255,
-        "gridG": 180,
+        "gridType": "rectangular",
+        "gridWidth": 8,
         "gridHeight": 8,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridR": 158,
-        "gridType": "rectangular",
-        "gridWidth": 8,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
         "snap": true,
-        "windowMask": true,
-        "zoomFactor": 0.6666666992187402
+        "zoomFactor": 0.6666666992187402,
+        "windowMask": true
       },
       "objectsGroups": [
         {
@@ -23540,17 +23541,16 @@
       ],
       "editionSettings": {
         "grid": true,
-        "gridB": 255,
-        "gridG": 180,
+        "gridType": "rectangular",
+        "gridWidth": 4,
         "gridHeight": 4,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
-        "gridR": 158,
-        "gridType": "rectangular",
-        "gridWidth": 4,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
         "snap": true,
-        "windowMask": true,
-        "zoomFactor": 1.5833332763671872
+        "zoomFactor": 1.5833332763671872,
+        "windowMask": true
       }
     },
     {
