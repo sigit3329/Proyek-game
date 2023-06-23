@@ -2866,7 +2866,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Controls:\nUse the mouse to drag and drop a tower. Right click a tower to open its upgrade panel",
+          "string": "Controls:\nGunakan mouse untuk menyeret dan menjatuhkan menara. Klik kanan menara untuk membuka panel pemutakhirannya",
           "font": "Assets\\fonts\\PressStart2P-Regular.ttf",
           "textAlignment": "",
           "characterSize": 10,
